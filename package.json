@@ -1,0 +1,25 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.18.0",
+    "nuxt": "1.4.1",
+    "vuetify": "1.0.19"
+  },
+  "devDependencies": {
+    "node-sass": "4.9.0",
+    "pug": "2.0.3",
+    "pug-loader": "2.4.0",
+    "sass-loader": "7.0.3"
+  }
+}
